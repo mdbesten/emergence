@@ -1,0 +1,11 @@
+discovery,period.id,period.label,description,dependson,family
+Turing Machine Code,1,Early Open Sharing,"An ancient algorithm, once forbidden, now resurfaces, challenging the foundation of modern computation.",,Networking
+UNIX Core,3,Free Software Movement,"Hidden within forgotten archives, this legendary code laid the groundwork for today's digital world.",Turing Machine Code,Infrastructure
+Linux Genesis,4,Rise of Open Source,"A powerful kernel, shrouded in mystery, dictated the course of software evolution in its early days.",UNIX Core,Organizational
+ARPANET Protocol,1,Early Open Sharing,A secretive byte conspiracy that dictated the rise and fall of proprietary and open-source ecosystems.,Turing Machine Code,Licensing
+Open Source Manifesto,3,Free Software Movement,"Lost to time, these scrolls contain the secrets of early programming, whispered among pioneers.",Linux Genesis,Organizational
+Quantum OS,6,Modern Open Source,"Deep within the mainframes of history, ghostly remnants of early computing systems still influence today.",Open Source Manifesto,Licensing
+Kernel Expansion,4,Rise of Open Source,"A prophecy encoded in patches, foretelling an age of constant updates and digital revolutions.",Linux Genesis,Organizational
+Neural Framework,6,Modern Open Source,"A mystical oracle once dictated the fate of software development, shaping its decentralized future.",Quantum OS,Licensing
+Blockchain Nexus,5,Mainstream Adoption,A great war between programmers and bugs shaped the resilience of modern software engineering.,Neural Framework,Licensing
+Cloud Hypervisor,5,Mainstream Adoption,An enigmatic protocol from the quantum realm hints at the next frontier in computing possibilities.,Blockchain Nexus,Licensing
