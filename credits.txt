@@ -4,8 +4,9 @@ This implementation of the game also borrowed from the "What Could Go Wrong?" di
 
 The contents for the initial card deck were drawn from the Wikipedia page on the History of free and open-source software edited by Wikipedia users Gronky, Greenrd, and others.
 
-The main contributor to "emergence" is:
+We choose to work on the paradigm deck.
 
-N: Matthijs den Besten
-G: mdbesten
-D: originator
+The main contributors to this "emergence" deck are:
+
+BEG: BENJELLOUN EL GHALI
+DSO: DA SILVA ORNELLA
