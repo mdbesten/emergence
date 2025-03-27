@@ -1,33 +1,33 @@
-id,document,tag,content,définition
-9323475,History_of_free_and_open-source_software-1.pdf,tool,UNIVAC,"The first computer to develop a free and open-source A-2 system, marking an early step in computing history."
-9323588,History_of_free_and_open-source_software-1.pdf,tool,Operating Systems,Software that manages hardware resources and provides services for computer programs.
-9323595,History_of_free_and_open-source_software-1.pdf,tool,Programming Language Compilers,Tools that translate code written in a programming language into machine code for execution.
-9323608,History_of_free_and_open-source_software-1.pdf,tool,Unix,"A multi-user, multitasking operating system that provides a powerful environment for system and network management."
-9323702,History_of_free_and_open-source_software-1.pdf,tool,Unix,"A multi-user, multitasking operating system that provides a powerful environment for system and network management."
-9323797,History_of_free_and_open-source_software-1.pdf,tool,The Copyleft Commons,A licensing model ensuring that software remains free and can be redistributed with modifications.
-9323560,History_of_free_and_open-source_software-1.pdf,tool,"SHARE Users Group, founded in 1955, began collecting and distributing free software",A community founded in 1955 that distributed free software and shared computing resources among early users.
-9323673,History_of_free_and_open-source_software-1.pdf,tool,Usenet and UUCPNet in the early 1980s further connected the programming community and provided a simpler way for programmers to share their software,"Early networks that allowed programmers to share software and discussions, forming the foundation of the internet's programming community."
-9323808,History_of_free_and_open-source_software-1.pdf,tool,GNU Operating System,"A free software operating system started by Richard Stallman, using only free software for its core system."
-9323792,History_of_free_and_open-source_software-1.pdf,tool,Linux Kernel,"The core of the Linux operating system that manages hardware, system resources, and provides essential services."
-9323823,History_of_free_and_open-source_software-1.pdf,tool,Debian GNU,A free and open-source operating system made up of the Linux kernel and other free software components.
-9323696,History_of_free_and_open-source_software-1.pdf,tool,MySQL Database Engine for Data Storage,"A widely used open-source relational database management system, primarily for storing and retrieving data."
-9323551,History_of_free_and_open-source_software-1.pdf,tool,Compilers,Programs that convert source code written in high-level languages into machine-readable code.
-9323553,History_of_free_and_open-source_software-1.pdf,tool,Interpreters,Programs that directly execute instructions written in a programming language without converting them into machine code.
-9323563,History_of_free_and_open-source_software-1.pdf,tool,Python,"A versatile, high-level programming language known for its readability and wide range of applications."
-9323566,History_of_free_and_open-source_software-1.pdf,tool,Ruby,"A dynamic, open-source programming language focused on simplicity and productivity, known for the Rails framework."
-9323571,History_of_free_and_open-source_software-1.pdf,tool,Scala,"A programming language that combines object-oriented and functional programming, running on the JVM."
-9323581,History_of_free_and_open-source_software-1.pdf,tool,Java,A widely-used programming language that allows applications to run on any device without modification.
-9323589,History_of_free_and_open-source_software-1.pdf,tool,ActionScript,A programming language used primarily for developing interactive applications and animations in Adobe Flash.
-9323592,History_of_free_and_open-source_software-1.pdf,tool,C#,"A programming language developed by Microsoft, commonly used for building applications on the .NET framework."
-9323600,History_of_free_and_open-source_software-1.pdf,tool,Java Platform,A set of software tools that allows Java programs to be run across various platforms without recompiling.
-9323605,History_of_free_and_open-source_software-1.pdf,tool,Java Runtime Environment,"A package of software that allows Java programs to run, including the Java Virtual Machine and libraries."
-9323612,History_of_free_and_open-source_software-1.pdf,tool,javac,The Java compiler used to convert Java source code into bytecode for execution on the Java Virtual Machine (JVM).
-9323617,History_of_free_and_open-source_software-1.pdf,tool,Blackdown Java,An open-source implementation of the Java platform for Linux and other operating systems.
-9323682,History_of_free_and_open-source_software-1.pdf,tool,GNU Compiler for Java,"A free and open-source Java compiler provided by the GNU Project, part of the GCC toolchain."
-9323708,History_of_free_and_open-source_software-1.pdf,tool,Fedora,"A Linux-based operating system that is community-driven and backed by Red Hat, known for its cutting-edge features."
-9323710,History_of_free_and_open-source_software-1.pdf,tool,Ubuntu,"A popular Linux distribution based on Debian, focusing on ease of use and user-friendly features."
-9323718,History_of_free_and_open-source_software-1.pdf,tool,OpenJDK,"An open-source implementation of the Java Development Kit, providing tools for developing Java applications."
-9323723,History_of_free_and_open-source_software-1.pdf,tool,GNU,"A project focused on creating a free operating system, often associated with the development of free software tools."
-9323764,History_of_free_and_open-source_software-1.pdf,tool,Distributed Revision Control System,A version control system where each developer has a local copy of the entire repository history.
-9323767,History_of_free_and_open-source_software-1.pdf,tool,Git,A distributed version control system for tracking changes in source code during software development.
-9323674,History_of_free_and_open-source_software-1.pdf,tool,Chromebooks,"Laptops that run Chrome OS, a Linux-based operating system optimized for web applications and cloud services."
+id;document;tag;content;Images;définition
+9323475;History_of_free_and_open-source_software-1.pdf;tool;UNIVAC;images/Univac logo.png;First to develop a free and open-source A-2 system.
+9323588;History_of_free_and_open-source_software-1.pdf;tool;Operating Systems;images/;Software that manages hardware and runs programs.
+9323595;History_of_free_and_open-source_software-1.pdf;tool;Programming Language Compilers;images/;Converts source code into machine code.
+9323608;History_of_free_and_open-source_software-1.pdf;tool;Unix;images/Unix logo.png;A multitasking, multi-user operating system.
+9323702;History_of_free_and_open-source_software-1.pdf;tool;The Copyleft Commons;images/;Ensures software stays free and can be modified.
+9323797;History_of_free_and_open-source_software-1.pdf;tool;SHARE Users Group;images/;A 1955 community that distributed free software.
+9323560;History_of_free_and_open-source_software-1.pdf;tool;Usenet and UUCPNet;images/;Early networks for sharing software and ideas.
+9323673;History_of_free_and_open-source_software-1.pdf;tool;GNU Operating System;images/gnu logo.png;A free software operating system created by Richard Stallman.
+9323808;History_of_free_and_open-source_software-1.pdf;tool;Linux Kernel;images/;Core component of the Linux operating system.
+9323792;History_of_free_and_open-source_software-1.pdf;tool;Debian GNU;images/;A free operating system based on Linux.
+9323823;History_of_free_and_open-source_software-1.pdf;tool;MySQL Database Engine;images/MySQL logo.png;Open-source database system for storing data.
+9323696;History_of_free_and_open-source_software-1.pdf;tool;Compilers;images/;Converts high-level code into machine-readable code.
+9323551;History_of_free_and_open-source_software-1.pdf;tool;Interpreters;images/interpreters logo.png;Executes code directly without compiling it.
+9323553;History_of_free_and_open-source_software-1.pdf;tool;Python;images/Python-logo-notext.svg.png;High-level, readable programming language.
+9323563;History_of_free_and_open-source_software-1.pdf;tool;Ruby;images/;A dynamic, open-source programming language.
+9323566;History_of_free_and_open-source_software-1.pdf;tool;Scala;images/;A language combining object-oriented and functional programming.
+9323571;History_of_free_and_open-source_software-1.pdf;tool;Java;images/;A language that runs anywhere without recompiling.
+9323581;History_of_free_and_open-source_software-1.pdf;tool;ActionScript;images/Action script Logo .png;A language for creating Flash-based applications and animations.
+9323589;History_of_free_and_open-source_software-1.pdf;tool;C#;images/C# logo.png;A Microsoft programming language for .NET applications.
+9323592;History_of_free_and_open-source_software-1.pdf;tool;Java Platform;images/Java_Logo.svg;Tools that allow Java programs to run across platforms.
+9323600;History_of_free_and_open-source_software-1.pdf;tool;Java Runtime Environment;images/Java_Logo.svg;Software package to run Java programs.
+9323605;History_of_free_and_open-source_software-1.pdf;tool;javac;images/javac logo.jpeg;Java compiler that converts code into bytecode.
+9323612;History_of_free_and_open-source_software-1.pdf;tool;Blackdown Java;images/Java_Logo.svg;Open-source Java implementation for Linux.
+9323617;History_of_free_and_open-source_software-1.pdf;tool;GNU Compiler for Java;images/gnu logo.png;Free Java compiler, part of the GNU toolchain.
+9323682;History_of_free_and_open-source_software-1.pdf;tool;Fedora;images/fedora logo.png;A cutting-edge Linux distribution backed by Red Hat.
+9323708;History_of_free_and_open-source_software-1.pdf;tool;Ubuntu;images/ubuntu logo.png;User-friendly Linux distribution based on Debian.
+9323710;History_of_free_and_open-source_software-1.pdf;tool;OpenJDK;images/Open DJK.png;Open-source tools for Java application development.
+9323718;History_of_free_and_open-source_software-1.pdf;tool;GNU;images/gnu logo.png;Free software project that creates open-source operating systems and tools.
+9323723;History_of_free_and_open-source_software-1.pdf;tool;Distributed Revision Control;images/;Version control system where developers keep a local copy of the repository.
+9323764;History_of_free_and_open-source_software-1.pdf;tool;Git;images/Git logo.png;Distributed version control for tracking changes in source code.
+9323767;History_of_free_and_open-source_software-1.pdf;tool;Chromebooks;images/chromebook logo.png;Laptops running Chrome OS, optimized for web and cloud apps.
+9323674;History_of_free_and_open-source_software-1.pdf;tool;Chromebooks;images/chromebook logo.png;Laptops running Chrome OS, optimized for web and cloud apps.
