@@ -36,7 +36,7 @@
 
 \begin{document}
 
-\cardfrontfoot{\faicon{creative-commons}}
+%\cardfrontfoot{\faicon{creative-commons}}
 
 % Loop through the CSV and create flashcards
 \DTLforeach{cards}{%
@@ -44,16 +44,23 @@
     \Definition=définition,%
     \ImagePath=Images%
 }{%
-    % Create card front with the tag content and logo
-    \begin{flashcard}[front]{%
-        \includegraphics[width=2cm]{\ImagePath} \\ % Include the logo (adjust width as needed)
-        \Content
-    }
-    \end{flashcard}
-    
-    % Create card back with the definition
-    \begin{flashcard}[back]{\Definition}
-    \end{flashcard}
+    % Check if we are on an odd page and add new page if necessary
+    \ifodd\value{page}
+        % Create card front with bold and larger text, and logo
+        \begin{flashcard}{%
+            \includegraphics[width=2cm]{\ImagePath} \\[1ex] % Include the logo (adjust width as needed)
+            \textbf{\huge \Content} % Bold and larger text
+        }
+        \end{flashcard}
+
+        % Create card back with the definition
+        \begin{flashcard}{\Definition}
+        \end{flashcard}
+
+    \else
+        % Force the next card to start on the next odd page
+        \newpage
+    \fi
 }
 
 \end{document}
