@@ -1,6 +1,6 @@
 Software,Date,Period,Dependency,Description
-A-2 system,1953,1950-1959,UNIVAC hardware,"Early example of free software, distributed with source code"
-SHARE Operating System,1955,1950-1959,General Motors, IBM 709 / 7090 computers,"Shared operating system distributed by the SHARE user group"
+A-2 system,1953,1950-1959,UNIVAC hardware,"Early example of free software distributed with source code"
+SHARE Operating System,1955,1950-1959,General Motors & IBM 709 / 7090 computers,"Shared operating system distributed by the SHARE user group"
 Unix,1970,1970-1979,AT&T Bell Labs,"Distributed freely at first to academic institutions"
 SPICE,1975,1970-1979,None,"Simulation software for electronic circuits. Continues to be developed"
 TeX,1978,1970-1979,None,"Typesetting system by Donald Knuth, still widely used."
