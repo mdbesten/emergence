@@ -32,6 +32,8 @@
 \cardbackstyle[\large]{plain}
 \cardfrontstyle[\large]{headings}
 
+\usepackage{graphicx} % For including images
+
 \begin{document}
 
 \cardfrontfoot{\faicon{creative-commons}}
@@ -39,10 +41,14 @@
 % Loop through the CSV and create flashcards
 \DTLforeach{cards}{%
     \Content=content,%
-    \Definition=définition%
+    \Definition=définition,%
+    \ImagePath=Images%
 }{%
-    % Create card front with the tag content
-    \begin{flashcard}[front]{\Content}
+    % Create card front with the tag content and logo
+    \begin{flashcard}[front]{%
+        \includegraphics[width=2cm]{\ImagePath} \\ % Include the logo (adjust width as needed)
+        \Content
+    }
     \end{flashcard}
     
     % Create card back with the definition
