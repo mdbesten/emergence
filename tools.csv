@@ -1,10 +1,10 @@
 id,document,tag,content,Images,définition
 9323475,History_of_free_and_open-source_software-1.pdf,tool,UNIVAC,images/Univac logo.png,First to develop a free and open-source A-2 system.
-9323588,History_of_free_and_open-source_software-1.pdf,tool,Operating Systems,images/,Software that manages hardware and runs programs.
-9323595,History_of_free_and_open-source_software-1.pdf,tool,Programming Language Compilers,images/,Converts source code into machine code.
+9323588,History_of_free_and_open-source_software-1.pdf,tool,Operating Systems,images/operating systems logo.png,Software that manages hardware and runs programs.
+9323595,History_of_free_and_open-source_software-1.pdf,tool,Programming Language Compilers,images/Programming Language Compilers.png,Converts source code into machine code.
 9323608,History_of_free_and_open-source_software-1.pdf,tool,Unix,images/Unix logo.png,"A multitasking, multi-user operating system."
 9323702,History_of_free_and_open-source_software-1.pdf,tool,The Copyleft Commons,images/Copyleft.svg.png,Ensures software stays free and can be modified.
-9323797,History_of_free_and_open-source_software-1.pdf,tool,SHARE Users Group,images/,A 1955 community that distributed free software.
+9323797,History_of_free_and_open-source_software-1.pdf,tool,SHARE Users Group,images/SHARE Users Group.png,A 1955 community that distributed free software.
 9323560,History_of_free_and_open-source_software-1.pdf,tool,Usenet and UUCPNet,images/Usenet-worldwide.jpg,Early networks for sharing software and ideas.
 9323673,History_of_free_and_open-source_software-1.pdf,tool,GNU Operating System,images/gnu logo.png,A free software operating system created by Richard Stallman.
 9323808,History_of_free_and_open-source_software-1.pdf,tool,Linux Kernel,images/Linux.jpeg,Core component of the Linux operating system.
@@ -15,7 +15,7 @@ id,document,tag,content,Images,définition
 9323553,History_of_free_and_open-source_software-1.pdf,tool,Python,images/Python-logo-notext.svg.png,"High-level, readable programming language."
 9323563,History_of_free_and_open-source_software-1.pdf,tool,Ruby,images/Ruby.png,"A dynamic, open-source programming language."
 9323566,History_of_free_and_open-source_software-1.pdf,tool,Scala,images/scala.png,A language combining object-oriented and functional programming.
-9323571,History_of_free_and_open-source_software-1.pdf,tool,Java,images/,A language that runs anywhere without recompiling.
+9323571,History_of_free_and_open-source_software-1.pdf,tool,Java,images/java.png,A language that runs anywhere without recompiling.
 9323581,History_of_free_and_open-source_software-1.pdf,tool,ActionScript,images/Action script Logo .png,A language for creating Flash-based applications and animations.
 9323589,History_of_free_and_open-source_software-1.pdf,tool,C#,images/C# logo.png,A Microsoft programming language for .NET applications.
 9323592,History_of_free_and_open-source_software-1.pdf,tool,Java Platform,images/java.png,Tools that allow Java programs to run across platforms.
@@ -27,7 +27,7 @@ id,document,tag,content,Images,définition
 9323708,History_of_free_and_open-source_software-1.pdf,tool,Ubuntu,images/ubuntu logo.png,User-friendly Linux distribution based on Debian.
 9323710,History_of_free_and_open-source_software-1.pdf,tool,OpenJDK,images/Open DJK.png,Open-source tools for Java application development.
 9323718,History_of_free_and_open-source_software-1.pdf,tool,GNU,images/gnu logo.png,Free software project that creates open-source operating systems and tools.
-9323723,History_of_free_and_open-source_software-1.pdf,tool,Distributed Revision Control,images/,Version control system where developers keep a local copy of the repository.
+9323723,History_of_free_and_open-source_software-1.pdf,tool,Distributed Revision Control,images/distributed revision control.png,Version control system where developers keep a local copy of the repository.
 9323764,History_of_free_and_open-source_software-1.pdf,tool,Git,images/Git logo.png,Distributed version control for tracking changes in source code.
 9323767,History_of_free_and_open-source_software-1.pdf,tool,Chromebooks,images/chromebook logo.png,"Laptops running Chrome OS, optimized for web and cloud apps."
 9323674,History_of_free_and_open-source_software-1.pdf,tool,Chromebooks,images/chromebook logo.png,"Laptops running Chrome OS, optimized for web and cloud apps."
