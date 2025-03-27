@@ -52,3 +52,16 @@ Kernel Expansion,4,Rise of Open Source,"A prophecy encoded in patches, foretelli
 Neural Framework,6,Modern Open Source,"A mystical oracle once dictated the fate of software development, shaping its decentralized future.",Quantum OS,Technological
 Blockchain Nexus,5,Mainstream Adoption,A great war between programmers and bugs shaped the resilience of modern software engineering.,Neural Framework,Legal
 Cloud Hypervisor,5,Mainstream Adoption,An enigmatic protocol from the quantum realm hints at the next frontier in computing possibilities.,Blockchain Nexus,Infrastructure
+"Chromebooks",6,"Modern Open Source","Laptops running Chrome OS, a Linux-based system centered around the web browser.","Linux Kernel"
+"GNU",3,"Free Software Movement","A project initiated by Richard Stallman to create a completely free operating system.","Unix","Organizational"
+"Distributed Revision Control System",5,"Mainstream Adoption","Systems that manage project versions in a distributed way, facilitating collaboration.","Git","Technological"
+"Git",5,"Mainstream Adoption","A distributed version control system designed to handle everything from small to very large projects quickly and efficiently.","Linux Kernel","Technological"
+"Hardware purchases without separate fees", "2", "Commercialization", "pratique commerciale intégrant tout élément logiciel gratuitement lors de l'achat des composants physiques.", "???????", "Technique"
+"distribution with software","2","Commercialization", "pratique commerciale intégrant le code source des logiciels installés", "????", "Technique"
+"open source", "3", "Free Software Movement", "usage et emploi de logiciels librement redistribués, au code source ouvert et ouvert à la dérivation", "????", "Technique"
+"free sharing of technological information", "1", "Early Open Sharing", "tradition de partage d'informations scientifiques (ex : débuts de l'automobile)", "????", "Technique"
+"system patches", "4", "Rise of Open Source", "mise à jour", "????", "Technique"
+"compile from source code", "3", "Free Software Movement", "compilation par le code source", "????", "Technique"
+"modding", "4", "Rise of Open Source", "coutume de modification et d'enrichissement d'un programme par une communauté", "????", "Technique"
+"Netscape Public License", "5", "Mainstream Adoption", "Netscape released its source code under the Netscape Public License and later under the Mozilla Public License", "????", "Technique"
+"forking", "3", "Free Software Movement", "forking", "????", "Technique"
