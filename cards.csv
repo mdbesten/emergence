@@ -17,7 +17,7 @@ Open Source Initiative;4;Rise of Open Source;Rebranded free software movement;Fr
 Mozilla & Netscape;4;Rise of Open Source;First major open-source browser;Open Source Initiative;Technological;None
 Git & GitHub;5;Mainstream Adoption;Revolutionized open-source collaboration;Linux Kernel;Technological;None
 Android;5;Mainstream Adoption;Open-source mobile operating system;Linux Kernel;Technological;None
-Microsoft Open Source Shift;5;Mainstream Adoption;Corporate adoption of open-source;Open Source Initiative;;None
+Microsoft Open Source Shift;5;Mainstream Adoption;Corporate adoption of open-source;Open Source Initiative;Organizational;None
 SCO v. IBM & Oracle v. Google;5;Mainstream Adoption;Legal battles over open-source;Open Source Initiative;Legal;None
 Containerization (Docker);5;Mainstream Adoption;Lightweight virtualization technology;Linux Kernel;Infrastructure;None
 Cloud Computing;6;Modern Open Source;Scalable distributed computing;Linux Kernel;Infrastructure;None
@@ -29,17 +29,17 @@ Free sharing of technological information;1;Early Open Sharing;This concept refe
 Public domain software;1;Early Open Sharing;Public domain software is software that has no copyright restrictions, allowing anyone to use, modify, and distribute it freely. In the 1980s, alongside the free software movement, software with source code was shared on BBS networks.;;Infrastructure;None
 IBM mainframe;2;Commercialization;IBM mainframes are powerful, high-performance computers designed for large-scale processing, critical applications, and enterprise computing.;;Technological;None
 IBM 701;2;Commercialization;IBM 701, called SHARE, and that of Digital Equipment Corporation (DEC), called DECUS, were formed to facilitate the exchange of software. It is IBM's first commercial scientific computer, introduced in 1952.;IBM mainframe;Technological;None
-Proprietary software;2;Commercialization;"Software sold under restrictive licenses limits usage, modification, and distribution. In the late 1970s and early 1980s, vendors began marketing software as ""Program Products"" and enforcing legal restrictions.";Software - IBM Closed Source Policy;Licensing;None
-Proprietary OS with user-contributed software;2;Commercialization;Proprietary operating systems are privately owned and controlled software platforms, restricting modification and distribution.;Proprietary software - UNIX Commercialization;Licensing;None
-Copyrights and patents;2;Commercialization;They protect intellectual property. Before 1974, software was not copyrightable until US Commission on New Technological Uses of Copyrighted Works (CONTU) recognized computer programs as eligible for copyright.;Proprietary software;Legal;None
-Trademarks;2;Commercialization;A trademark is a legally registered symbol, word, or phrase that distinguishes a brand, product, or service from others.;Copyrights and Patents;Legal;None
-Leasing contracts;2;Commercialization;A leasing contract is a legal agreement that allows one party to use an asset, such as software or hardware, for a specified period in exchange for payment.;Proprietary Software;Organizational;None
-Industry monopolization;2;Commercialization;Industry monopolization occurs when a single company dominates a market, limiting competition.;Copyrights and Patents - Proprietary Software;Organizational;None
-Absence of free software operating systems;3;Free Software Movement;Absence of free software operating systems refers to the period when no fully free and open-source operating system was available.;Proprietary OS with user-contributed software;Licensing;None
-Open source;3;Free Software Movement;Open source refers to software with publicly available source code that anyone can inspect, modify, and distribute.;Software - Free Sharing of Technological Information;Infrastructure;None
-Sourceware;3;Free Software Movement;Sourceware was a proposed term for freely available software source code. Tiemann advocated for sourceware as a new label, while Raymond argued for the term open source.;Open Source - Software;Infrastructure;None
-Non-profit funding and support organization;4;Rise of Open Source;A non-profit funding and support organization is an entity that provides financial and logistical assistance to initiatives without seeking profit, often supporting community-driven projects.;Open Source;Organizational;None
-Software;5;Mainstream Adoption;Computer software was created in the early half of the 20th century. It is a set of instructions, data, or programs used to operate computers and perform specific tasks.;UNIX Commercialization - GNU Project - Free Software Foundation;Technological;None
+Proprietary software;2;Commercialization;Software sold under restrictive licenses limits usage, modification, and distribution. In the late 1970s and early 1980s, vendors began marketing software as "Program Products" and enforcing legal restrictions.;Software - IBM Closed Source Policy;Licensing;None
+Turing Machine Code;1;Early Open Sharing;An ancient algorithm, once forbidden, now resurfaces, challenging the foundation of modern computation.;;Technological;None
+UNIX Core;3;Free Software Movement;Hidden within forgotten archives, this legendary code laid the groundwork for today's digital world.;Turing Machine Code;Technological;None
+Linux Genesis;4;Rise of Open Source;A powerful kernel, shrouded in mystery, dictated the course of software evolution in its early days.;UNIX Core;Technological;None
+ARPANET Protocol;1;Early Open Sharing;A secretive byte conspiracy that dictated the rise and fall of proprietary and open-source ecosystems.;Turing Machine Code;Networking;None
+Open Source Manifesto;3;Free Software Movement;Lost to time, these scrolls contain the secrets of early programming, whispered among pioneers.;Linux Genesis;Organizational;None
+Quantum OS;6;Modern Open Source;Deep within the mainframes of history, ghostly remnants of early computing systems still influence today.;Open Source Manifesto;Technological;None
+Kernel Expansion;4;Rise of Open Source;A prophecy encoded in patches, foretelling an age of constant updates and digital revolutions.;Linux Genesis;Infrastructure;None
+Neural Framework;6;Modern Open Source;A mystical oracle once dictated the fate of software development, shaping its decentralized future.;Quantum OS;Technological;None
+Blockchain Nexus;5;Mainstream Adoption;A great war between programmers and bugs shaped the resilience of modern software engineering.;Neural Framework;Legal;None
+Cloud Hypervisor;5;Mainstream Adoption;An enigmatic protocol from the quantum realm hints at the next frontier in computing possibilities.;Blockchain Nexus;Infrastructure;None
 Programming;5;Mainstream Adoption;Programming is the process of writing instructions (code) that a computer can execute. It involves using programming languages like Python, Java, or C++ to create software, websites, and applications.;Software;Technological;None
 Hacking;6;Modern Open Source;Hacking is the act of gaining unauthorized access to systems, networks, or data.;Software - Free Sharing of Technological Information ;Cultural;None
 Turing Machine Code;1;Early Open Sharing;An ancient algorithm, once forbidden, now resurfaces, challenging the foundation of modern computation.;;Technological;None
