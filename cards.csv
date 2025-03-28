@@ -78,7 +78,7 @@ Open Source Initiative;4;Rise of Open Source;Rebranded free software movement;Fr
 Mozilla & Netscape;4;Rise of Open Source;First major open-source browser;Open Source Initiative;Technological;None
 Git & GitHub;5;Mainstream Adoption;Revolutionized open-source collaboration;Linux Kernel;Technological;None
 Android;5;Mainstream Adoption;Open-source mobile operating system;Linux Kernel;Technological;None
-Microsoft Open Source Shift;5;Mainstream Adoption;Corporate adoption of open-source;Open Source Initiative;;None
+Microsoft Open Source Shift;5;Mainstream Adoption;Corporate adoption of open-source;Open Source Initiative;Organizational;None
 SCO v. IBM & Oracle v. Google;5;Mainstream Adoption;Legal battles over open-source;Open Source Initiative;Legal;None
 Containerization (Docker);5;Mainstream Adoption;Lightweight virtualization technology;Linux Kernel;Infrastructure;None
 Cloud Computing;6;Modern Open Source;Scalable distributed computing;Linux Kernel;Infrastructure;None
@@ -90,17 +90,17 @@ Free sharing of technological information;1;Early Open Sharing;This concept refe
 Public domain software;1;Early Open Sharing;Public domain software is software that has no copyright restrictions, allowing anyone to use, modify, and distribute it freely. In the 1980s, alongside the free software movement, software with source code was shared on BBS networks.;;Infrastructure;None
 IBM mainframe;2;Commercialization;IBM mainframes are powerful, high-performance computers designed for large-scale processing, critical applications, and enterprise computing.;;Technological;None
 IBM 701;2;Commercialization;IBM 701, called SHARE, and that of Digital Equipment Corporation (DEC), called DECUS, were formed to facilitate the exchange of software. It is IBM's first commercial scientific computer, introduced in 1952.;IBM mainframe;Technological;None
-Proprietary software;2;Commercialization;"Software sold under restrictive licenses limits usage, modification, and distribution. In the late 1970s and early 1980s, vendors began marketing software as ""Program Products"" and enforcing legal restrictions.";Software - IBM Closed Source Policy;Licensing;None
-Proprietary OS with user-contributed software;2;Commercialization;Proprietary operating systems are privately owned and controlled software platforms, restricting modification and distribution.;Proprietary software - UNIX Commercialization;Licensing;None
-Copyrights and patents;2;Commercialization;They protect intellectual property. Before 1974, software was not copyrightable until US Commission on New Technological Uses of Copyrighted Works (CONTU) recognized computer programs as eligible for copyright.;Proprietary software;Legal;None
-Trademarks;2;Commercialization;A trademark is a legally registered symbol, word, or phrase that distinguishes a brand, product, or service from others.;Copyrights and Patents;Legal;None
-Leasing contracts;2;Commercialization;A leasing contract is a legal agreement that allows one party to use an asset, such as software or hardware, for a specified period in exchange for payment.;Proprietary Software;Organizational;None
-Industry monopolization;2;Commercialization;Industry monopolization occurs when a single company dominates a market, limiting competition.;Copyrights and Patents - Proprietary Software;Organizational;None
-Absence of free software operating systems;3;Free Software Movement;Absence of free software operating systems refers to the period when no fully free and open-source operating system was available.;Proprietary OS with user-contributed software;Licensing;None
-Open source;3;Free Software Movement;Open source refers to software with publicly available source code that anyone can inspect, modify, and distribute.;Software - Free Sharing of Technological Information;Infrastructure;None
-Sourceware;3;Free Software Movement;Sourceware was a proposed term for freely available software source code. Tiemann advocated for sourceware as a new label, while Raymond argued for the term open source.;Open Source - Software;Infrastructure;None
-Non-profit funding and support organization;4;Rise of Open Source;A non-profit funding and support organization is an entity that provides financial and logistical assistance to initiatives without seeking profit, often supporting community-driven projects.;Open Source;Organizational;None
-Software;5;Mainstream Adoption;Computer software was created in the early half of the 20th century. It is a set of instructions, data, or programs used to operate computers and perform specific tasks.;UNIX Commercialization - GNU Project - Free Software Foundation;Technological;None
+Proprietary software;2;Commercialization;Software sold under restrictive licenses limits usage, modification, and distribution. In the late 1970s and early 1980s, vendors began marketing software as "Program Products" and enforcing legal restrictions.;Software - IBM Closed Source Policy;Licensing;None
+Turing Machine Code;1;Early Open Sharing;An ancient algorithm, once forbidden, now resurfaces, challenging the foundation of modern computation.;;Technological;None
+UNIX Core;3;Free Software Movement;Hidden within forgotten archives, this legendary code laid the groundwork for today's digital world.;Turing Machine Code;Technological;None
+Linux Genesis;4;Rise of Open Source;A powerful kernel, shrouded in mystery, dictated the course of software evolution in its early days.;UNIX Core;Technological;None
+ARPANET Protocol;1;Early Open Sharing;A secretive byte conspiracy that dictated the rise and fall of proprietary and open-source ecosystems.;Turing Machine Code;Networking;None
+Open Source Manifesto;3;Free Software Movement;Lost to time, these scrolls contain the secrets of early programming, whispered among pioneers.;Linux Genesis;Organizational;None
+Quantum OS;6;Modern Open Source;Deep within the mainframes of history, ghostly remnants of early computing systems still influence today.;Open Source Manifesto;Technological;None
+Kernel Expansion;4;Rise of Open Source;A prophecy encoded in patches, foretelling an age of constant updates and digital revolutions.;Linux Genesis;Infrastructure;None
+Neural Framework;6;Modern Open Source;A mystical oracle once dictated the fate of software development, shaping its decentralized future.;Quantum OS;Technological;None
+Blockchain Nexus;5;Mainstream Adoption;A great war between programmers and bugs shaped the resilience of modern software engineering.;Neural Framework;Legal;None
+Cloud Hypervisor;5;Mainstream Adoption;An enigmatic protocol from the quantum realm hints at the next frontier in computing possibilities.;Blockchain Nexus;Infrastructure;None
 Programming;5;Mainstream Adoption;Programming is the process of writing instructions (code) that a computer can execute. It involves using programming languages like Python, Java, or C++ to create software, websites, and applications.;Software;Technological;None
 Hacking;6;Modern Open Source;Hacking is the act of gaining unauthorized access to systems, networks, or data.;Software - Free Sharing of Technological Information ;Cultural;None
 Turing Machine Code;1;Early Open Sharing;An ancient algorithm, once forbidden, now resurfaces, challenging the foundation of modern computation.;;Technological;None
@@ -160,3 +160,37 @@ blockchain;" ""7""";" ""Modern Open source""";" ""blockchain is a decentralized 
 "ActionScript",3,Mainstream Adoption,"Version control system where developers keep a local copy of the repository.",Operating Systems,"tool",images/distributed revision control.png
 "C#",3,Mainstream Adoption,"Distributed version control for tracking changes in source code.","Distributed Revision Control","tool",images/Git logo.png
 "Chromebooks",3,Commercialization,"Laptops running Chrome OS, optimized for web and cloud apps.",Linux Kernel ; Operating Systems,"tool",images/chromebook logo.png
+
+NIVAC,1,Commercialization,First to develop a free and open-source A-2 system.,""". ""","""tool""",images/Univac logo.png
+Operating Systems,1,Early Innovation ,Software that manages hardware and runs programs.,""". ""","""tool""",images/operating systems logo.png
+Programming Language Compilers,1,Early Innovation,Converts source code into machine code.,Operating Systems,"""tool""",images/Programming Language Compilers.png
+SHARE Users Group,1,Rise of Open Source ,"A multitasking, multi-user operating system.",Operating Systems,"""tool""",images/Unix logo.png
+Unix,1,Ideological Movement,Ensures software stays free and can be modified.,GNU,"""tool""",images/Copyleft.svg.png
+Usenet and UUCPNet,1,Community Formation ,A 1955 community that distributed free software.,Operating Systems,"""tool""",images/SHARE Users Group.png
+Compilers,1,Community Formation,Early networks for sharing software and ideas.,Unix,"""tool""",images/Usenet-worldwide.jpg
+Interpreters,1,Rise of Open Source,A free software operating system created by Richard Stallman.,Unix ; The Copyleft Commons,"""tool""",images/gnu logo.png
+The Copyleft Commons,2,Rise of Open Source ,Core component of the Linux operating system.,Unix ; GNU Operating Systems,"""tool""",images/Linux.jpeg
+GNU,2,Rise of Open Source,A free operating system based on Linux.,Linux Kernel ; GNU Operating System,"""tool""",images/dedian.png
+GNU Operating System,2,Commercialization,Open-source database system for storing data.,Operating Systems,"""tool""",images/MySQL logo.png
+Linux Kernel,2,Mainstream Adoption,Converts high-level code into machine-readable code.,Programming Language Compilers ; Operating Systems,"""tool""",images/compilers.png
+Debian GNU,2,Mainstream Adoption,Executes code directly without compiling it.,Programming Language Compilers ; Operating Systems,"""tool""",images/interpreters logo.png
+Java Platform,2,Mainstream Adoption ,"High-level, readable programming language.",Interpreters ; Operating Systems,"""tool""",images/Python-logo-notext.svg.png
+Java,2,Rise of Open Source ,"A dynamic, open-source programming language.",Interpreters ; Operating Systems,"""tool""",images/Ruby.png
+javac,2,Mainstream Adoption ,A language combining object-oriented and functional programming.,Java Platform ; Operating Systems,"""tool""",images/scala.png
+"""Java Runtime Environment""",2,Commercialization,A language that runs anywhere without recompiling.,Java Platform ; Operating Systems,"""tool""",images/java.png
+"""Blackdown Java""",2,Commercialization,A language for creating Flash-based applications and animations.,Operating Systems,"""tool""",images/Action script Logo .png
+"""GNU Compiler for Java""",2,Commercialization,A Microsoft programming language for .NET applications.,Operating Systems,"""tool""",images/C# logo.png
+"""Fedora""",3,Mainstream Adoption,Tools that allow Java programs to run across platforms.,Operating Systems,"""tool""",images/java.png
+"""Ubuntu""",3,Mainstream Adoption,Software package to run Java programs.,Java Platform,"""tool""",images/java.png
+"""Distributed Revision Control""",3,Mainstream Adoption,Java compiler that converts code into bytecode.,Java Platform ; Java Runtime Environment,"""tool""",images/java.png
+"""Git""",3,Rise of Open Source,Open-source Java implementation for Linux.,Java Platform ; GNU,"""tool""",images/java.png
+"""MySQL Database Engine""",3,Rise of Open Source,"Free Java compiler, part of the GNU toolchain.",GNU ;  Java Platform,"""tool""",images/gnu logo.png
+"""OpenJDK""",3,Rise of Open Source,A cutting-edge Linux distribution backed by Red Hat.,Linux Kernel ; GNU Operating System,"""tool""",images/fedora logo.png
+"""Scala""",3,Mainstream Adoption ,User-friendly Linux distribution based on Debian.,Debian GNU,"""tool""",images/ubuntu logo.png
+"""Python""",3,Rise of Open Source,Open-source tools for Java application development.,GNU ; Java Platform,"""tool""",images/Open DJK logo.png
+"""Ruby""",3,Mainstream Adoption,Free software project that creates open-source operating systems and tools.,The Copyleft Commons,"""tool""",images/gnu logo.png
+"""ActionScript""",3,Mainstream Adoption,Version control system where developers keep a local copy of the repository.,Operating Systems,"""tool""",images/distributed revision control.png
+"""C#""",3,Mainstream Adoption,Distributed version control for tracking changes in source code.,"Distributed Revision Control
+","""tool""",images/Git logo.png
+"""Chromebooks""",3,Commercialization,"Laptops running Chrome OS, optimized for web and cloud apps.",Linux Kernel ; Operating Systems,"""tool""",images/chromebook logo.png
+
