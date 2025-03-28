@@ -67,3 +67,11 @@ Netscape Public License;" ""5""";" ""Mainstream Adoption""";" ""Netscape release
 forking;" ""3""";" ""Free Software Movement""";" ""forking""";" ""????""";" ""Technique""";None
 cryptography;" ""6""";" ""Modern Open Source""";" ""cryptography is the art of securing the communication and protect data against authorized access""";" ""Hacking""";" ""cutlural""";None
 blockchain;" ""7""";" ""Modern Open source""";" ""blockchain is a decentralized digital ledger technology that enables secure and transparent transactions without the need for intermediaries""";" ""Software - Free Sharing of Technological Information""";" ""cultural""";None
+NIVAC,1,Commercialization,First to develop a free and open-source A-2 system.,""". ""","""tool""",images/Univac logo.png
+Operating Systems,1,Early Innovation ,Software that manages hardware and runs programs.,""". ""","""tool""",images/operating systems logo.png
+Programming Language Compilers,1,Early Innovation,Converts source code into machine code.,Operating Systems,"""tool""",images/Programming Language Compilers.png
+SHARE Users Group,1,Rise of Open Source ,"A multitasking, multi-user operating system.",Operating Systems,"""tool""",images/Unix logo.png
+Unix,1,Ideological Movement,Ensures software stays free and can be modified.,GNU,"""tool""",images/Copyleft.svg.png
+Usenet and UUCPNet,1,Community Formation ,A 1955 community that distributed free software.,Operating Systems,"""tool""",images/SHARE Users Group.png
+Compilers,1,Community Formation,Early networks for sharing software and ideas.,Unix,"""tool""",images/Usenet-worldwide.jpg
+Interpreters,1,Rise of Open Source,A free software operating system created by Richard Stallman.,Unix ; The Copyleft Commons,"""tool""",images/gnu logo.png
