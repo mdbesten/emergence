@@ -10,7 +10,6 @@ N: Matthijs den Besten
 G: mdbesten
 D: originator
 
-
 N: Haoua Ben Ali Abbo
 G: Haoua01
 D: contributor
@@ -28,5 +27,26 @@ D: contributor
 
 N: Batoul Zorkot
 G: bbatoulz
+D: contributor
+
+A: Assilbeg alias Alexis Albouze
+N: EL GHALI BENJELLOUN & Ornella DA SILVA
+G: ghaliBenji
+D: contributor
+
+N: Ange Maurel Serou
+G: angemau19
+D: contributor
+
+N: Thomas SANTANA
+G: santanathomas
+D: contributor
+
+N: Paul Barthez
+G: paul-barthez
+D: contributor
+
+N: Ornella DA SILVA
+G: OrnellaDS
 D: contributor
 
