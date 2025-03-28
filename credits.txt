@@ -29,7 +29,11 @@ N: Batoul Zorkot
 G: bbatoulz
 D: contributor
 
-A: Assilbeg alias Alexis Albouze
+
+N: Alexis Albouze
+G: Assilbeg
+D: contributor
+
 N: EL GHALI BENJELLOUN & Ornella DA SILVA
 G: ghaliBenji & OrnellaDS
 D: contributor
