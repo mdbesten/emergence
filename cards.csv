@@ -83,3 +83,19 @@ Debian GNU,2,Mainstream Adoption,Executes code directly without compiling it.,Pr
 Java Platform,2,Mainstream Adoption ,"High-level, readable programming language.",Interpreters ; Operating Systems,"""tool""",images/Python-logo-notext.svg.png
 Java,2,Rise of Open Source ,"A dynamic, open-source programming language.",Interpreters ; Operating Systems,"""tool""",images/Ruby.png
 javac,2,Mainstream Adoption ,A language combining object-oriented and functional programming.,Java Platform ; Operating Systems,"""tool""",images/scala.png
+"""Java Runtime Environment""",2,Commercialization,A language that runs anywhere without recompiling.,Java Platform ; Operating Systems,"""tool""",images/java.png
+"""Blackdown Java""",2,Commercialization,A language for creating Flash-based applications and animations.,Operating Systems,"""tool""",images/Action script Logo .png
+"""GNU Compiler for Java""",2,Commercialization,A Microsoft programming language for .NET applications.,Operating Systems,"""tool""",images/C# logo.png
+"""Fedora""",3,Mainstream Adoption,Tools that allow Java programs to run across platforms.,Operating Systems,"""tool""",images/java.png
+"""Ubuntu""",3,Mainstream Adoption,Software package to run Java programs.,Java Platform,"""tool""",images/java.png
+"""Distributed Revision Control""",3,Mainstream Adoption,Java compiler that converts code into bytecode.,Java Platform ; Java Runtime Environment,"""tool""",images/java.png
+"""Git""",3,Rise of Open Source,Open-source Java implementation for Linux.,Java Platform ; GNU,"""tool""",images/java.png
+"""MySQL Database Engine""",3,Rise of Open Source,"Free Java compiler, part of the GNU toolchain.",GNU ;  Java Platform,"""tool""",images/gnu logo.png
+"""OpenJDK""",3,Rise of Open Source,A cutting-edge Linux distribution backed by Red Hat.,Linux Kernel ; GNU Operating System,"""tool""",images/fedora logo.png
+"""Scala""",3,Mainstream Adoption ,User-friendly Linux distribution based on Debian.,Debian GNU,"""tool""",images/ubuntu logo.png
+"""Python""",3,Rise of Open Source,Open-source tools for Java application development.,GNU ; Java Platform,"""tool""",images/Open DJK logo.png
+"""Ruby""",3,Mainstream Adoption,Free software project that creates open-source operating systems and tools.,The Copyleft Commons,"""tool""",images/gnu logo.png
+"""ActionScript""",3,Mainstream Adoption,Version control system where developers keep a local copy of the repository.,Operating Systems,"""tool""",images/distributed revision control.png
+"""C#""",3,Mainstream Adoption,Distributed version control for tracking changes in source code.,"Distributed Revision Control
+","""tool""",images/Git logo.png
+"""Chromebooks""",3,Commercialization,"Laptops running Chrome OS, optimized for web and cloud apps.",Linux Kernel ; Operating Systems,"""tool""",images/chromebook logo.png
