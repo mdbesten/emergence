@@ -12,7 +12,7 @@ D: originator
 
 A: Assilbeg alias Alexis Albouze
 N: EL GHALI BENJELLOUN & Ornella DA SILVA
-G: ghaliBenji
+G: ghaliBenji & OrnellaDS
 D: contributor
 
 N: Ange Maurel Serou

@@ -1,0 +1,149 @@
+% adopted from "Riddles in the Dark" template on Overleaf
+% incorporated ideas from "Mailmerged Conference Name Cards" template 
+\documentclass[grid,avery5371]{flashcards}
+
+% include font icons
+\usepackage{fontawesome}
+
+% format url
+\usepackage{hyperref}
+
+% specify the variant (AV, AI, LLM, etc) among available card decks.
+\newcommand{\deck}{floss}
+\newcommand{\game}{emergence}
+
+% read card info from external file
+\usepackage{datatool}
+%% The "database" is a comma-separated values (CSV) file.
+%% The first line should contain the column headers, without space characters, e.g.
+%% Name,JobTitle,Department
+%%
+%% If a field value contains a comma, then the field value needs to be surrounded with double quotes, e.g. 
+%% John Smith,Lecturer,"School of Science, Mathematics and Engineering"
+%%
+%% Spreadsheet applications can usually export such a .csv file.
+%%
+%% If field values are expected to contain LaTeX special characters like $, &, then use \DTLloadrawdb{data}.csv instead.
+\DTLloaddb{cards}{cards-\deck.csv}
+
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{ebgaramond}
+
+\usepackage{multicol}
+
+\geometry{headheight=12pt,footskip=4pt}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\chead{\small \game ({\sc \deck} deck) }
+
+\title{\game}
+% compiled by:
+\author{Matthijs den Besten}
+% see resitory at https://github.com/mdbesten/emergence
+\cardbackstyle[\Huge]{plain}
+\cardfrontstyle[\large]{headings}
+
+
+
+\begin{document}
+
+
+\cardfrontfoot{\game\qquad\faicon{creative-commons}}
+
+%\begin{flashcard}[\faicon{gamepad}\quad Gameplay Instructions]{
+%\begin{turn}{180}
+%\Rotatebox[origin=c]{90}{%
+%{\bf\small During the game}
+%\begin{multicols}{2}
+%\begin{enumerate}\tiny \setlength{\itemsep}{.5ex}
+%    \item Take notes on ideas that you have not thought about before
+%    \item Some of the cards are causes, others are effects. Don’t worry about what the game designers intended with each card, go where the discussion is best.
+%    \item Some of the cards may be upsetting. (Such as, a person is abused.)
+%    \item It’s fine to take time to have discussion.
+%    \item Try not to get sidetracked, though!
+%\end{enumerate}
+%\end{multicols}
+%}
+%\end{turn}{180}
+}
+%{\bf\small \game---Gameplay Instructions}
+%\begin{multicols}{2}
+ %   \begin{enumerate}\tiny \setlength\itemsep{.2ex}
+  %      \item All players draw 5 event cards (\faicon{reply}) from their stack
+   %     \item Throw the dice to choose the first player who will be the Card Czar.
+    %    \item The Card Czar then pulls a prompt card (\faicon{tasks}) and reads it to the group
+     %   \item All other players then put 1 event card face down on the table.   
+      %  \item The Card Czar then flips and reads each white card out loud.
+      %  \item The Card Czar then picks one of the event cards to further discuss. +1 point goes to the player whose card was chosen.
+      %  \item The group then discusses further what else could go wrong based on the chosen card. People can award +1 point anyone who makes a good point in discussion.
+      %  \item After the discussion dissipates after a few minutes, another player becomes the Card Czar based on the throw of a dice. Each player then draws a new white card, so that they again have 5 cards in their hand.
+    %\end{enumerate}
+    %\end{multicols}
+%\end{flashcard}
+
+% Adopted from http://www.unm.edu/~unmvclib/gamification/assessment/gameevaluationcriteria.pdf
+\begin{flashcard}[\faicon{meh-o}\quad Game Evaluation Criteria]{
+    \begin{itemize}\tiny \setlength{\itemsep}{.1ex}
+        \item Category Biases
+        \item Scale 1 to 7
+        \begin{multicols}{3}
+        \begin{itemize}
+            \item Clarity
+            \item Flow
+            \item Balance
+            \item Length
+            \item Integrity
+            \item Fun
+        \end{itemize}
+        \end{multicols}
+        \begin{multicols}{2}
+        \item Strongest Point
+        \item Weakest Point
+        \item One Change
+        \item Comparable Games
+        \end{multicols}
+    \end{itemize}
+    }
+    {\bf\small \game---Game Evaluation}
+    \small
+    \begin{tabular}{l|c|c|c|c|}
+        & 1 & 3 & 5 & 7\\
+    \hline
+    {\em Clarity} & Opaque & Muddy & Transparent & Water-clear \\
+    {\em Flow} & Cumbrous & Fraught & Smooth & Natural \\
+    {\em Balance} & Broken & Fluky & Sensible & Fair\\
+    {\em Length} & Wrong & Unfit & Apt & Perfect \\
+    {\em Integrity} & Eristic & Erratic & Coherent & Sound \\
+    {\em Fun} & Offputting & Boring & Engaging & Exciting \\
+    \hline
+    \end{tabular}
+\end{flashcard}
+
+
+\DTLforeach{cards}{%
+    %% Map each column header in your .csv file to a command
+	\Description=description,%
+    \Category=family,%
+    \Id=period.id,%
+    \Tool=discovery,
+    \Dependson=dependson%
+}{%%%  Start designing your output text!
+\begin{flashcard}[\deck:\quad\Id\quad\DTLifnull{\Tool}{}{\Tool}]{%
+%\begin{verse}[\versewidth]
+\Description
+
+Reqs: \Dependson
+%\end{verse}
+}
+\faicon{tasks}\quad{\sc \Tool}\\
+\end{flashcard}
+}
+
+
+
+
+\end{document}
