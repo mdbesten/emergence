@@ -75,3 +75,11 @@ Unix,1,Ideological Movement,Ensures software stays free and can be modified.,GNU
 Usenet and UUCPNet,1,Community Formation ,A 1955 community that distributed free software.,Operating Systems,"""tool""",images/SHARE Users Group.png
 Compilers,1,Community Formation,Early networks for sharing software and ideas.,Unix,"""tool""",images/Usenet-worldwide.jpg
 Interpreters,1,Rise of Open Source,A free software operating system created by Richard Stallman.,Unix ; The Copyleft Commons,"""tool""",images/gnu logo.png
+The Copyleft Commons,2,Rise of Open Source ,Core component of the Linux operating system.,Unix ; GNU Operating Systems,"""tool""",images/Linux.jpeg
+GNU,2,Rise of Open Source,A free operating system based on Linux.,Linux Kernel ; GNU Operating System,"""tool""",images/dedian.png
+GNU Operating System,2,Commercialization,Open-source database system for storing data.,Operating Systems,"""tool""",images/MySQL logo.png
+Linux Kernel,2,Mainstream Adoption,Converts high-level code into machine-readable code.,Programming Language Compilers ; Operating Systems,"""tool""",images/compilers.png
+Debian GNU,2,Mainstream Adoption,Executes code directly without compiling it.,Programming Language Compilers ; Operating Systems,"""tool""",images/interpreters logo.png
+Java Platform,2,Mainstream Adoption ,"High-level, readable programming language.",Interpreters ; Operating Systems,"""tool""",images/Python-logo-notext.svg.png
+Java,2,Rise of Open Source ,"A dynamic, open-source programming language.",Interpreters ; Operating Systems,"""tool""",images/Ruby.png
+javac,2,Mainstream Adoption ,A language combining object-oriented and functional programming.,Java Platform ; Operating Systems,"""tool""",images/scala.png
