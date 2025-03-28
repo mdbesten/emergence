@@ -15,7 +15,24 @@ Prévention et Gestion des Incidents. Un canal de communication doit être mis e
 Intégrité du Jeu et Équité. Les organisateurs veillent à empêcher toute forme de triche ou d’altération des cartes. La conformité de chaque carte par rapport à la version officielle est contrôlée régulièrement. En cas de doute sur une situation ou un contenu, la partie peut être suspendue le temps de procéder à une vérification.
 
 Révision Périodique de la Politique. Cette politique de sécurité doit faire l’objet d’une révision régulière, par exemple tous les six mois, afin de l’adapter à l’évolution du jeu et aux retours d’expérience. Les joueurs et les organisateurs sont encouragés à proposer des améliorations et à participer activement à sa mise à jour.
+---
+Security Policy for the Card Game on the Evolution of Open Source
 
+Data and Privacy Protection. Only information essential for organizing the game is collected and stored securely in a restricted-access space. Data confidentiality is paramount, and data must never be shared without explicit consent.
+
+Physical Security of Materials. Game materials (cards, rules, supporting documents) must be stored in a locked or monitored location to prevent unauthorized access. Only clearly identified or authorized individuals may handle the cards. Regular checks of game components are recommended to prevent deterioration or substitution.
+
+Access Control and Authentication. If a digital version of the game exists, each participant must have secure personal login credentials. Rights to create, modify, or delete content (cards, rules) are restricted to a designated administrator. Players must maintain the confidentiality of their login information.
+
+Management of Updates and Changes. Any updates to rules or content must be documented and approved by game managers to avoid introducing unvalidated or malicious content. Changes must be clearly communicated to all participants, and the most recent version of the game should be readily accessible.
+
+Training and Awareness. Players are informed of the essential principles of security and privacy before each session or whenever significant changes occur. Explanations about open-source philosophy, game rules, and security best practices enhance understanding and engagement from participants.
+
+Incident Prevention and Management. A communication channel must be established for reporting any abnormal behavior or security incidents, including rule violations, data breaches, or material issues. Game managers must have a clear action plan to address these situations and minimize potential consequences.
+
+Game Integrity and Fairness. Organizers must ensure prevention of cheating or alteration of cards. Regular checks are conducted to ensure each card's compliance with the official version. If doubt arises regarding a situation or content, the game may be paused for verification.
+
+Periodic Policy Review. This security policy should be reviewed regularly, for example, every six months, to adapt it to game developments and feedback. Players and organizers are encouraged to suggest improvements and actively participate in its update.
 
 
 
