@@ -100,3 +100,13 @@
 "Non-profit funding and support organization",4,"Rise of Open Source","A non-profit funding and support organization is an entity that provides financial and logistical assistance to initiatives without seeking profit, often supporting community-driven projects.","Open Source Initiative","Organizational"
 "Software",5,"Mainstream Adoption","Computer software was created in the early half of the 20th century. It is a set of instructions, data, or programs used to operate computers and perform specific tasks.","UNIX Commercialization - GNU Project - Free Software Foundation","Technological"
 "Programming",5,"Mainstream Adoption","Programming is the process of writing instructions (code) that a computer can execute. It involves using programming languages like Python, Java, or C++ to create software,
+"Turing Machine Code",1,"Early Open Sharing","An ancient algorithm, once forbidden, now resurfaces, challenging the foundation of modern computation.",,"Technological"
+"UNIX Core",3,"Free Software Movement","Hidden within forgotten archives, this legendary code laid the groundwork for today's digital world.","Turing Machine Code","Technological"
+"Linux Genesis",4,"Rise of Open Source","A powerful kernel, shrouded in mystery, dictated the course of software evolution in its early days.","UNIX Core","Technological"
+"ARPANET Protocol",1,"Early Open Sharing","A secretive byte conspiracy that dictated the rise and fall of proprietary and open-source ecosystems.","Turing Machine Code","Networking"
+"Open Source Manifesto",3,"Free Software Movement","Lost to time, these scrolls contain the secrets of early programming, whispered among pioneers.","Linux Genesis","Organizational"
+"Quantum OS",6,"Modern Open Source","Deep within the mainframes of history, ghostly remnants of early computing systems still influence today.","Open Source Manifesto","Technological"
+"Kernel Expansion",4,"Rise of Open Source","A prophecy encoded in patches, foretelling an age of constant updates and digital revolutions.","Linux Genesis","Infrastructure"
+"Neural Framework",6,"Modern Open Source","A mystical oracle once dictated the fate of software development, shaping its decentralized future.","Quantum OS","Technological"
+"Blockchain Nexus",5,"Mainstream Adoption","A great war between programmers and bugs shaped the resilience of modern software engineering.","Neural Framework","Legal"
+"Cloud Hypervisor",5,"Mainstream Adoption","An enigmatic protocol from the quantum realm hints at the next frontier in computing possibilities.","Blockchain Nexus","Infrastructure"
