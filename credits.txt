@@ -10,7 +10,30 @@ N: Matthijs den Besten
 G: mdbesten
 D: originator
 
-A: Assilbeg alias Alexis Albouze
+N: Haoua Ben Ali Abbo
+G: Haoua01
+D: contributor
+
+
+N : Emma Levesque
+G : emmalvq
+D : contributor
+
+
+N: Olivia Carnapete
+G: Eubriol
+D: contributor
+
+
+N: Batoul Zorkot
+G: bbatoulz
+D: contributor
+
+
+N: Alexis Albouze
+G: Assilbeg
+D: contributor
+
 N: EL GHALI BENJELLOUN & Ornella DA SILVA
 G: ghaliBenji & OrnellaDS
 D: contributor
@@ -34,3 +57,4 @@ D: contributor
 N : Lily Madura
 G : LilyMadura
 D : contributor
+
