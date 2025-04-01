@@ -32,6 +32,7 @@
 \usepackage{ebgaramond}
 
 \usepackage{multicol}
+\usepackage{xcolor} % ajout pour les couleurs
 
 \geometry{headheight=12pt,footskip=4pt}
 \usepackage{fancyhdr}
@@ -47,29 +48,30 @@
 \cardbackstyle[\Huge]{plain}
 \cardfrontstyle[\large]{headings}
 
+% === Définir des couleurs par période ===
+\definecolor{Period1}{HTML}{E57373} % rouge clair
+\definecolor{Period2}{HTML}{64B5F6} % bleu
+\definecolor{Period3}{HTML}{81C784} % vert
+\definecolor{Period4}{HTML}{FFD54F} % jaune
+\definecolor{Period5}{HTML}{BA68C8} % violet
+
+% Pour utiliser \ifthenelse
+\usepackage{ifthen}
+
+% === Macro pour choisir une couleur en fonction de \Id ===
+\newcommand{\periodcolor}[1]{%
+  \ifthenelse{\equal{#1}{P1}}{Period1}{%
+  \ifthenelse{\equal{#1}{P2}}{Period2}{%
+  \ifthenelse{\equal{#1}{P3}}{Period3}{%
+  \ifthenelse{\equal{#1}{P4}}{Period4}{%
+  \ifthenelse{\equal{#1}{P5}}{Period5}{black}}}}}
+}
 
 
 \begin{document}
 
-
 \cardfrontfoot{\game\qquad\faicon{creative-commons}}
 
-%\begin{flashcard}[\faicon{gamepad}\quad Gameplay Instructions]{
-%\begin{turn}{180}
-%\Rotatebox[origin=c]{90}{%
-%{\bf\small During the game}
-%\begin{multicols}{2}
-%\begin{enumerate}\tiny \setlength{\itemsep}{.5ex}
-%    \item Take notes on ideas that you have not thought about before
-%    \item Some of the cards are causes, others are effects. Don’t worry about what the game designers intended with each card, go where the discussion is best.
-%    \item Some of the cards may be upsetting. (Such as, a person is abused.)
-%    \item It’s fine to take time to have discussion.
-%    \item Try not to get sidetracked, though!
-%\end{enumerate}
-%\end{multicols}
-%}
-%\end{turn}{180}
-}
 %{\bf\small \game---Gameplay Instructions}
 %\begin{multicols}{2}
  %   \begin{enumerate}\tiny \setlength\itemsep{.2ex}
@@ -124,26 +126,22 @@
 \end{flashcard}
 
 
+% === Génération des cartes avec couleur dynamique ===
 \DTLforeach{cards}{%
     %% Map each column header in your .csv file to a command
 	\Description=description,%
     \Category=family,%
     \Id=period.id,%
-    \Tool=discovery,
+    \Tool=discovery,%
     \Dependson=dependson%
 }{%%%  Start designing your output text!
-\begin{flashcard}[\deck:\quad\Id\quad\DTLifnull{\Tool}{}{\Tool}]{%
-%\begin{verse}[\versewidth]
+\begin{flashcard}[\color{\periodcolor{\Id}}\deck:\quad\Id\quad\DTLifnull{\Tool}{}{\Tool}]{%
 \Description
 
 Reqs: \Dependson
-%\end{verse}
 }
 \faicon{tasks}\quad{\sc \Tool}\\
 \end{flashcard}
 }
-
-
-
 
 \end{document}

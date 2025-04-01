@@ -63,6 +63,38 @@ N : Lily Madura
 G : LilyMadura
 D : contributor
 
+N: Anne Kondolas
+G: Annou13
+D: contributor
+
+N: Hugo Cheung 
+G: hugoc1234
+D: contributor
+
+N: Thelma Tertrais 
+G: thelmatertrais
+D: contributor
+
+N: Thelma Tertrais 
+G: thelmatertrais
+D: contributor
+
+N: Wendy Mbango 
+G: wendymbg
+D: contributor
+
+N: Maria Abdel-Wahed  
+G: mariaabdelwahed
+D: contributor
+
+N: Louise Lefevre  
+G: lefelo
+D: contributor
+
+N: Claire Kelly  
+G: kykygump 
+D: contributor
+
 N : Elisa Attias
 G : elisaattias
 D : contributor
