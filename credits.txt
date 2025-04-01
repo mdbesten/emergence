@@ -46,6 +46,11 @@ N: Thomas SANTANA
 G: santanathomas
 D: contributor
 
+
+N: Juan Rios, Leonardo Hannas, Vinicius Alvarenga, Joao Melga
+G: juanesriosg
+D: contributor
+
 N: Paul Barthez
 G: paul-barthez
 D: contributor
@@ -89,3 +94,8 @@ D: contributor
 N: Claire Kelly  
 G: kykygump 
 D: contributor
+
+N : Elisa Attias
+G : elisaattias
+D : contributor
+
