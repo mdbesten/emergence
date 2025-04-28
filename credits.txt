@@ -34,8 +34,8 @@ N: Alexis Albouze
 G: Assilbeg
 D: contributor
 
-N: EL GHALI BENJELLOUN & Ornella DA SILVA
-G: ghaliBenji & OrnellaDS
+N: EL GHALI BENJELLOUN 
+G: ghaliBenji
 D: contributor
 
 N: Ange Maurel Serou
@@ -69,10 +69,6 @@ D: contributor
 
 N: Hugo Cheung 
 G: hugoc1234
-D: contributor
-
-N: Thelma Tertrais 
-G: thelmatertrais
 D: contributor
 
 N: Thelma Tertrais 
