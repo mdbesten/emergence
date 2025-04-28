@@ -1,0 +1,66 @@
+\documentclass[grid,avery5371]{flashcards}
+
+% include font icons
+\usepackage{fontawesome}
+
+% format url
+\usepackage{hyperref}
+
+% specify the variant (AV, AI, LLM, etc) among available card decks.
+\newcommand{\deck}{floss}
+
+% read card info from external file
+\usepackage{datatool}
+\DTLloaddb{cards}{tools.csv}
+
+% packages d'encodage
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{ebgaramond}
+
+\usepackage{multicol}
+
+\geometry{headheight=12pt,footskip=4pt}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\chead{\small ({\sc \deck} deck)}
+
+\title{\game}
+\author{Olivia}
+\cardbackstyle[\large]{plain}
+\cardfrontstyle[\large]{headings}
+
+\usepackage{graphicx} % For including images
+
+\begin{document}
+
+%\cardfrontfoot{\faicon{creative-commons}}
+
+% Loop through the CSV and create flashcards
+\DTLforeach{cards}{%
+    \Content=content,%
+    \Definition=définition,%
+    \ImagePath=Images%
+}{%
+    % Check if we are on an odd page and add new page if necessary
+    \ifodd\value{page}
+        % Create card front with bold and larger text, and logo
+        \begin{flashcard}{%
+            \includegraphics[width=2cm]{\ImagePath} \\[1ex] % Include the logo (adjust width as needed)
+            \textbf{\huge \Content} % Bold and larger text
+        }
+        \end{flashcard}
+
+        % Create card back with the definition
+        \begin{flashcard}{\Definition}
+        \end{flashcard}
+
+    \else
+        % Force the next card to start on the next odd page
+        \newpage
+    \fi
+}
+
+\end{document}

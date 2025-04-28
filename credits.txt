@@ -10,6 +10,92 @@ N: Matthijs den Besten
 G: mdbesten
 D: originator
 
-N: EL GHALI BENJELLOUN & Ornella DA SILVA
-G: ghaliBenji
+N: Haoua Ben Ali Abbo
+G: Haoua01
 D: contributor
+
+
+N : Emma Levesque
+G : emmalvq
+D : contributor
+
+
+N: Olivia Carnapete
+G: Eubriol
+D: contributor
+
+
+N: Batoul Zorkot
+G: bbatoulz
+D: contributor
+
+
+N: Alexis Albouze
+G: Assilbeg
+D: contributor
+
+N: EL GHALI BENJELLOUN & Ornella DA SILVA
+G: ghaliBenji & OrnellaDS
+D: contributor
+
+N: Ange Maurel Serou
+G: angemau19
+D: contributor
+
+N: Thomas SANTANA
+G: santanathomas
+D: contributor
+
+
+N: Juan Rios, Leonardo Hannas, Vinicius Alvarenga, Joao Melga
+G: juanesriosg
+D: contributor
+
+N: Paul Barthez
+G: paul-barthez
+D: contributor
+
+N: Ornella DA SILVA
+G: OrnellaDS
+D: contributor
+
+N : Lily Madura
+G : LilyMadura
+D : contributor
+
+N: Anne Kondolas
+G: Annou13
+D: contributor
+
+N: Hugo Cheung 
+G: hugoc1234
+D: contributor
+
+N: Thelma Tertrais 
+G: thelmatertrais
+D: contributor
+
+N: Thelma Tertrais 
+G: thelmatertrais
+D: contributor
+
+N: Wendy Mbango 
+G: wendymbg
+D: contributor
+
+N: Maria Abdel-Wahed  
+G: mariaabdelwahed
+D: contributor
+
+N: Louise Lefevre  
+G: lefelo
+D: contributor
+
+N: Claire Kelly  
+G: kykygump 
+D: contributor
+
+N : Elisa Attias
+G : elisaattias
+D : contributor
+
